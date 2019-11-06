@@ -1,0 +1,7 @@
+<?php
+
+return [
+    'intro' => 'Log poisoning<br>with <span>xss</span> payload',
+    'about_us' => 'English version',
+    'subheading' => 'This content is pulled in from a translation file (uh-oh)'
+];
